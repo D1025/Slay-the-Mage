@@ -31,3 +31,9 @@ Potencjalne ulepszenia - przewidzenie wszystkiego przy takiej grze nie było naj
 -niespójność grafik, ciężko znaleźć cały zestaw do takiej gry gotowych grafik możliwych do użycia w cenach nie zarobkowych
 -boss, brakuje w tej grze czegoś, np predmiotów, ciekawszej mapy, jest wiele rzeczy
 -rozdzielczość
+
+
+
+# DOWNLOAD
+mozesz pobrać bezpośrednio z githuba, ale opcjonalnie można grę pobrać z driva: https://drive.google.com/file/d/1cc27fFDYX3VguvKD12X2Dw5j7nHHT7me/view?usp=sharing
+po wypakowaniu należy folder output wrzucić gdzie się chce, a następnie używać skrótu gry do jej uruchamiania
