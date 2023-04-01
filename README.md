@@ -3,6 +3,10 @@
 gra na zaliczenie przedmiotu "Grafika i komunikacja czlowiek komputer"
 
 Gra polega na pokonywaniu wielu urzytkowników magii na raz oraz unikaniu pocisków ognia które zadają nam obrażenia
+
+UŻYJ K ABY ZAATAKOWAC.
+AD PORUSZANIE
+SPACJA SKOK
 ![image](https://user-images.githubusercontent.com/69533622/229312475-ccc37c62-2ae7-4012-a45e-3bf504c7cd68.png)
 
 Wrogowie pojawiają się co jakiś czas losowo, spadając z nieba. Gra trwa, aż nie zginiemy
