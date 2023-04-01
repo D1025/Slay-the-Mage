@@ -1,4 +1,4 @@
-# Slay-the-Witch
+# Slay-the-Mage
 
 gra na zaliczenie przedmiotu "Grafika i komunikacja czlowiek komputer"
 
