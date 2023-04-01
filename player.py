@@ -209,8 +209,8 @@ class Player(pygame.sprite.Sprite):
         return self.hp/100
     
     
-    def isAlive(self):
-        return self.hp > 0 and self.actual_frame==7
+    def isntAlive(self):
+        return self.hp <= 0 and self.dying_frame==6
         
         
         

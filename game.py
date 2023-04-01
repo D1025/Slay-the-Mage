@@ -13,7 +13,7 @@ from button import Button
 
 pygame.init()
 
-
+pygame.display.set_caption("Slay the Mage")
 
 width = 768
 height = 416
@@ -116,10 +116,10 @@ def start():
         tlo.__printfront__(screen)
         
         screen.fill((255,0,0), pygame.Rect(10,10,10+740*character.showhp(), 20))
-        screen.blit(get_font(30).render(f"SCORE: {character.score}", True, (255, 255, 255)),(10, 30))
+        screen.blit(get_font(30).render(f"SCORE: {character.score}", True, (255, 255, 255)),(10, 40))
     
         pygame.display.flip()
-        running = character.isAlive()
+        running = not character.isntAlive()
         clock.tick(12)
         
         
